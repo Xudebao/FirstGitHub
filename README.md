@@ -1,1 +1,1 @@
-# FirstGitHub
+# 用于Python语言的学习
