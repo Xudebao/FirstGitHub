@@ -35,7 +35,7 @@ for each in password:
         num1 +=1
         break
     
-#打印结果
+#结果
 if (num == 1):        
     print('Your Level is Low !')
 elif (num == 2):
